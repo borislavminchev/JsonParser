@@ -1,0 +1,18 @@
+{
+  "id": 14,
+  "firstName": "Mario",
+  "lastName": "Rossi",
+  "active": true,
+  "address": {
+    "city": {
+      "abc": true,
+      "aaa" : 12
+    },
+    "street": "100 Main St",
+    "state": "Pennsylvania",
+    "zip": "19103",
+    "country": "USA"
+  },
+  "languages": [ "English", "Spanish", "German" ],
+  "company": "ABC inc"
+}
